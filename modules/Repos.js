@@ -21,7 +21,7 @@ export default React.createClass({
                 <h1>repos</h1>
                 <ul>
                     <li><NavLink to="/repos/react/react-router">react-router</NavLink></li>
-                    <li><NavLink to="/repos/facebook/react">reacxcc</NavLink></li>
+                    <li><NavLink to="/repos/facebook/react">休息休息</NavLink></li>
                     <li>
                         <form onSubmit={this.handleSubmit}>
                             <input type="text" placeholder="userName"/> / {' '}
